@@ -1,4 +1,4 @@
-Hello,大家好，我是徐俊，目前主要从事 Android 工作。目前运营微信公众号徐公码字（stomjun94），主要更新 Android 开发，算法，面试，职场经历等。
+Hello,大家好，我是徐俊，目前主要从事 Android 工作。目前运营微信公众号程序员徐公（stomjun94），主要更新 Android 开发，算法，面试，职场经历等。
 
 > 我的 CSDN 博客:https://blog.csdn.net/gdutxiaoxu <br>
 我的掘金：https://juejin.im/user/2207475076966584  <br>

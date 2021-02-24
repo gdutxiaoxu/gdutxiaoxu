@@ -8,8 +8,7 @@ github: https://github.com/gdutxiaoxu/  <br>
 
 
 
-![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/offer/20200722234908.png)
-
+![](https://gitee.com/gdutxiaoxu/blog-picture/raw/master/21/02/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BE%90%E5%85%AC%EF%BC%88%E4%B8%8D%E5%B8%A6%E6%B0%B4%E5%8D%B0%EF%BC%89.png)
 <!--
 **gdutxiaoxu/gdutxiaoxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

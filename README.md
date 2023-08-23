@@ -24,7 +24,7 @@ Hello，能来到这里，证明是一种缘分。下面我先简单介绍一下
 
 ![](https://gitee.com/gdutxiaoxu/blog-picture/raw/master/21/02/20210323121149.png)
 
-目前有自己的公众号**程序员徐公**，主要分享技术和职场经验相关的，有兴趣的可以扫码关注一下
+目前有自己的公众号**徐公**，主要分享技术和职场经验相关的，有兴趣的可以扫码关注一下
 
 1. Android 开发相关的知识，包括 java，kotlin， Android 技术
 2. 面试相关的东西，包括常见的面试题目，面试经验分享
@@ -37,4 +37,4 @@ Hello，能来到这里，证明是一种缘分。下面我先简单介绍一下
 > 我的 CSDN 博客:https://blog.csdn.net/gdutxiaoxu <br>
 > 我的掘金：https://juejin.im/user/2207475076966584  <br>
 > github: https://github.com/gdutxiaoxu/  <br>
-> 微信公众号：程序员徐公(stormjun94)  <br>
+> 微信公众号：徐公(stormjun94)  <br>

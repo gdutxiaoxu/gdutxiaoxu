@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gdutxiaoxu&show_icons=true&theme=radical)
+
 
 Hello，能来到这里，证明是一种缘分。下面我先简单介绍一下自己。
 
-我目前是一名程序员，Android 高级工程师，17 年毕业，从实习到现在，一直从事在 Android 开发，目前在广州，坚持写博客已经有四年多了，**原创 139 篇，在 CSDN 上面访问量 112 万+，被评为 CSDN 博客专家** 。
+我目前是一名程序员，Android 高级工程师，17 年毕业，从实习到现在，一直从事在 Android 开发，目前在广州，坚持写博客已经有5年多了，**原创 139 篇，在 CSDN 上面访问量 130万+，被评为 CSDN 博客专家** 。
 
 ![](https://gitee.com/gdutxiaoxu/blog-picture/raw/master/21/02/20210323121149.png)
 
